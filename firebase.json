@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "ecommerceweb-bf2d0",
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
